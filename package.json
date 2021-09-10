@@ -1,0 +1,26 @@
+{
+  "author": "rakkiisto",
+  "name": "luckiest-dom",
+  "version": "0.1.0-alpha",
+  "main": "dist/index.js",
+  "description": "luckiest dom by rakkiisto",
+  "scripts": {
+    "dev": "webpack serve --config webpack.dev.js"
+  },
+  "dependencies": {
+    "animejs": "^3",
+    "color": "^4"
+  },
+  "devDependencies": {
+    "@types/animejs": "^3",
+    "@types/color": "^3",
+    "typescript": "^4",
+    "webpack": "^5",
+    "webpack-cli": "^4",
+    "webpack-dev-server": "^3",
+    "html-webpack-plugin": "^5",
+    "ts-loader": "^8"
+  },
+  "repository": "https://github.com/rakkiisto/luckiest-dom",
+  "license": "MIT"
+}

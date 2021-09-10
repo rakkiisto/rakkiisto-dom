@@ -1,0 +1,9 @@
+.vscode
+.git
+src
+dist/debug.js
+.gitignore
+.npmignore
+debug.html
+tsconfig.json
+webpack.dev.js
