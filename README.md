@@ -1,3 +1,3 @@
-# luckiest-dom
+# rakkiisto-dom
 
-luckiest dom by rakkiisto
+rakkiisto dom by rakkiisto
