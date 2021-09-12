@@ -1,9 +1,12 @@
 import { DOMObject } from './DOMObject';
 export class Img extends DOMObject {
+    src;
+    image;
+    isLoaded = false;
+    onload;
     constructor(src, image = new Image()) {
         super(image);
         this.src = src;
-        this.isLoaded = false;
         this.image = image;
         this.image.src = src;
         this.onload = new Promise(resolve => (this.image.onload = () => {

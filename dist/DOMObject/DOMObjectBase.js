@@ -1,4 +1,5 @@
 export class DOMObjectBase {
+    dom;
     constructor(dom) {
         this.dom = dom;
     }
