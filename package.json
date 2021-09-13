@@ -1,7 +1,7 @@
 {
   "author": "rakkiisto",
   "name": "rakkiisto-dom",
-  "version": "0.1.0-alpha+dts",
+  "version": "0.1.0-alpha.2",
   "main": "dist/index.js",
   "description": "rakkiisto dom by rakkiisto",
   "scripts": {
